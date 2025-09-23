@@ -1,6 +1,4 @@
-// ==========================
 // MEMBER LIST
-// ==========================
 async function loadMembers() {
     try {
         const res = await fetch("members.json");
