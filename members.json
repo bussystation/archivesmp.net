@@ -132,10 +132,22 @@
         "short": "twitch.tv/ethniaslive"
     },
     {
+        "link": "https://www.youtube.com/@melongod77",
+        "name": "MelonGod",
+        "logo": "assets/members/melongod.jpg",
+        "short": "youtube.com/@melongod77"
+    },
+    {
         "link": "https://www.youtube.com/@EpicFr",
         "name": "Epic",
         "logo": "assets/members/Epic.jpg",
         "short": "youtube.com/@EpicFr"
+    },
+    {
+        "link": "https://www.twitch.tv/jayeywayey",
+        "name": "jayeywayey",
+        "logo": "assets/members/jay.png",
+        "short": "twitch.tv/jayeywayey"
     },
     {
         "link": "https://twitter.com/ausked",
@@ -180,6 +192,30 @@
         "short": "twitch.tv/cinnaboroll"
     },
     {
+        "link": "https://twitter.com/Kaitycat_",
+        "name": "KaityKat",
+        "logo": "assets/members/KaityKat.jpg",
+        "short": "twitter.com/Kaitycat_"
+    },
+    {
+        "link": "https://www.twitch.tv/atonerslive",
+        "name": "Atoners",
+        "logo": "assets/members/Atoners.png",
+        "short": "twitch.tv/atonerslive"
+    },
+    {
+        "link": "https://www.youtube.com/@blandbarrel",
+        "name": "blandbarrel42",
+        "logo": "assets/members/blandbarrel42.jpg",
+        "short": "youtube.com/@blandbarrel"
+    },
+    {
+        "link": "https://www.youtube.com/@AKALunarplasm",
+        "name": "Lunarplasm",
+        "logo": "assets/members/Lunarplasm.jpg",
+        "short": "youtube.com/@AKALunarplasm"
+    },
+    {
         "link": "https://twitter.com/StudiosScript",
         "name": "Jonahaha",
         "logo": "assets/members/Jonahaha.jpg",
@@ -190,23 +226,5 @@
         "name": "naniho",
         "logo": "assets/members/naniho.jpg",
         "short": "twitch.tv/nani_ho"
-    },
-    {
-        "link": "https://www.youtube.com/@blandbarrel",
-        "name": "blandbarrel42",
-        "logo": "assets/members/blandbarrel42.jpg",
-        "short": "youtube.com/@blandbarrel"
-    },
-    {
-        "link": "https://twitter.com/Kaitycat_",
-        "name": "KaityKat",
-        "logo": "assets/members/KaityKat.jpg",
-        "short": "twitter.com/Kaitycat_"
-    },
-    {
-        "link": "https://www.youtube.com/@AKALunarplasm",
-        "name": "Lunarplasm",
-        "logo": "assets/members/Lunarplasm.jpg",
-        "short": "youtube.com/@AKALunarplasm"
     }
 ]
